@@ -140,8 +140,8 @@ const Index = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="/img/8bf782a0-d654-4e7e-8202-a2551820ee75.jpg"
-                alt="Забота и поддержка"
+                src="/img/bafacb13-6194-4851-aa74-3c2c03889255.jpg"
+                alt="Терапевтическая обстановка"
                 className="rounded-2xl shadow-xl w-full h-auto"
               />
             </div>
